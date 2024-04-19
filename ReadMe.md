@@ -65,16 +65,16 @@ The following API endpoints are available:
 
 ## Pictures
 Pictures of Tables
-![Users](./users.png)
-![Trains](./trains.png)
-![Booking](./ticket_booking.png)
+![Users](./pictures/users.png)
+![Trains](./pictures/trains.png)
+![Booking](./pictures/ticket_booking.png)
 
 Pictures of Endpoints
 
-![Login](./T_login.png)
-![Register](./T_register.png)
-![adding Train](./T_adding_train.png)
-![getting train details](./T_getting_train_details.png)
-![Booking seat](./T_booking_seat.png)
-![Getting Booking details](./T_booking_details.png)
+![Login](./pictures/T_login.png)
+![Register](./pictures/T_register.png)
+![adding Train](./pictures/T_adding_train.png)
+![getting train details](./pictures/T_getting_train_details.png)
+![Booking seat](./pictures/T_booking_seat.png)
+![Getting Booking details](./pictures/T_booking_details.png)
 
